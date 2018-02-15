@@ -1,0 +1,2 @@
+The code should be executed with the file on the same path as the program or manually set the path during the commandline.
+The code executes for both LRU and FIFO page replacement algorithms using the given commandline requirements.
